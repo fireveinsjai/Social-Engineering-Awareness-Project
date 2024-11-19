@@ -1,0 +1,9 @@
+# Gophish Setup Guide
+
+## 1. Download and Install Gophish
+- Visit [Gophish](https://gophish.io/) and download the appropriate version.
+- Extract the downloaded archive:
+  ```bash
+  unzip gophish-vX.X.X-linux-64bit.zip
+  cd gophish
+  ./gophish
